@@ -1,0 +1,23 @@
+.card-container{
+      display: 'grid';
+        gridTemplateColumns: 'repeat(3, 1fr)';
+        gap: '5px';
+        padding: 0;
+        listStyle: 'none'
+}
+
+.card{
+           background: '#4caf50';
+            color: red;;
+            padding: '10px';
+            textAlign: 'center';
+            borderRadius: '4px';
+}
+.button {
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: red;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}

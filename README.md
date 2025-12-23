@@ -2,6 +2,10 @@ This project was bootstrapped with Create React App.
 
 Created Game app for user who can have 20 trial question of choosing which is correct color. On basis of this color selection user will get score into it. 
 It will be fun during creating this project. You should go and try.
+
+
+<img width="770" height="689" alt="Screenshot 2025-12-24 at 1 51 17 AM 1" src="https://github.com/user-attachments/assets/7cb4f6a6-f5f9-4221-ae2d-6fdd2aea502c" />
+
 In the project directory, you can run:
 
 npm start
